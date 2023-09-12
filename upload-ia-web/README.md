@@ -6,3 +6,4 @@
 
 - Typescript
 - React Js
+- shadcn/ui (Tailwind CSS and Radix UI)
