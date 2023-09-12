@@ -1,6 +1,6 @@
 # Upload IA Web
 
-> Rocketseat
+> NLW IA da Rocketseat
 
 ## Tecnologias
 
