@@ -9,3 +9,4 @@
 - Fastify
 - Prisma ORM
 - SQLite
+- OpenAI

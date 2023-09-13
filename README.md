@@ -15,6 +15,7 @@
 - Fastify
 - Prisma ORM
 - SQLite
+- OpenAI
 
 ## Links
 
