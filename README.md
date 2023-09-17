@@ -33,3 +33,7 @@ Aplicação que possibilita realizar upload de videos e por meio de IA, criar au
 
 - [Front-End](https://github.com/rodolfoHOk/rocketseat.nlw-ia/tree/main/upload-ia-web)
 - [Back-End](https://github.com/rodolfoHOk/rocketseat.nlw-ia/tree/main/upload-ia-api)
+
+## Certificado
+
+= [Certificado](certificate.pdf)
